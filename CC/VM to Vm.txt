@@ -1,0 +1,22 @@
+1. ifconfig
+2. sudo apt install net-tools --> if above command does not run
+3. ping IPADDRESS - starts to ping
+4. ls - list all files and directories
+5. cat - show content inside the file
+6. scp(secure control protocol) - helps to copy files from one vm to other
+7. mkdir - make a new directory
+8. cd - change directory
+9. touch file_name - it makes a new file
+10. nano file_name - editor in Linux os
+
+
+ls /home/vagrant
+scp file_name vagrant@172.24.56.2:/home/vagrant
+
+
+Virtual box download - https://www.virtualbox.org/wiki/Downloads
+
+Ubuntu image - https://drive.google.com/drive/u/0/folders/1me_nJJh0fvdDOXX3ew2jzGQpoP7f_iFt
+
+
+SCP article - https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/
